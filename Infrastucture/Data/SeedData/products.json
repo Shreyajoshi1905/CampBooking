@@ -1,0 +1,138 @@
+[
+  {
+    "Name": "EcoExplorer Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 4,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 1 
+  },
+  {
+    "Name": "Survivor Quest Camp",
+    "Description": "An outdoor tech camp that combines nature with technology.",
+    "Price": 4000,
+    "Capacity": 8,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 2  
+  },
+  {
+    "Name": "Artistry in the Wild Camp",
+    "Description": " A space-themed camp with astronomy and stargazing activities",
+    "Price": 4000,
+    "Capacity": 4,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 1
+  },
+  {
+    "Name": "Dino Discovery Camp",
+    "Description": " A paleontology-themed camp for young dinosaur enthusiasts.",
+    "Price": 4000,
+    "Capacity": 2,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId":3
+  },
+  {
+    "Name": "EcoExplorer Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 10,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 4
+  },
+  {
+    "Name": "Wonders of the Wilderness Camp",
+    "Description": "A camp that explores the mysteries of the wild.",
+    "Price": 4000,
+    "Capacity": 7,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 1
+  },
+  {
+    "Name": "Secret Agent Spy Camp:",
+    "Description": "A camp where kids become secret agents and solve mysteries.",
+    "Price": 4000,
+    "Capacity": 6,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 2
+  },
+  {
+    "Name": "Wildlife Safari Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 4,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 3
+  },
+  {
+    "Name": "Pirate's Cove Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 11,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 4
+  },
+  {
+    "Name": "Robotics and Nature Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 15,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 1
+  },
+  {
+    "Name": "Magic and Mystery Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 5,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 2
+  },
+  {
+    "Name": "Zombie Apocalypse Survival Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 2,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 3
+  },
+  {    
+    "Name": "Yoga in the Wilderness Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 8,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 4
+  },
+  {
+    "Name": "Time Traveler's Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 10,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 1
+  },
+  {
+    "Name": "Horse Whisperer Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 3,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 1
+  },
+  {
+    "Name": "Underwater World Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 5,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 2
+  },
+  {
+    "Name": "Extreme Sports Adventure Camp",
+    "Description": "A camp focused on ecological exploration and nature conservation.",
+    "Price": 4000,
+    "Capacity": 4,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "CampCityId": 2
+  }
+]
